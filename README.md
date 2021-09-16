@@ -25,3 +25,6 @@ Python https://github.com/Asabeneh/30-Days-Of-Python
 Javascript: 
 https://github.com/Asabeneh/30-Days-Of-JavaScript
 https://javascript.info/
+
+Bash
+https://ebook.bobby.sh/training
