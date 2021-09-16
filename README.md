@@ -16,3 +16,12 @@ https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 https://application.security/
 
 
+## To Read:
+AWS IAM
+https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground
+
+Python https://github.com/Asabeneh/30-Days-Of-Python
+
+Javascript: 
+https://github.com/Asabeneh/30-Days-Of-JavaScript
+https://javascript.info/
