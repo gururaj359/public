@@ -17,6 +17,8 @@ https://application.security/
 
 
 ## To Read:
+
+https://unit42.paloaltonetworks.com/azure-container-instances
 AWS IAM
 https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground
 
